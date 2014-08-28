@@ -2,6 +2,7 @@
 // @name        Coursera Downloader
 // @namespace   http://userscripts.org/users/maxb3k
 // @description Download Coursera resources(mp4, pdf, ppt, txt, srt...) from 'Video Lectures' page. Link 'Download All Materials' should appear left of the Coursera link 'Help'.
+// @author      Maxim Tereshchenko(maxb3k)
 // @match       https://class.coursera.org/*/lecture/index
 // @match       https://class.coursera.org/*/lecture/*
 // @match       https://class.coursera.org/*/lecture
